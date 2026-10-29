@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../styles/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="760" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="125" rowspan="3" align="center" valign="top"><img src="../elcarpio/images/escudo.jpg" width="96" height="160"> 
+      <br>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tablaMenuL">
+        <th>turismo</th>
+        <tr> 
+          <td><a href="../elcarpio/turismo/index.htm">Datos Generales</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/emplaza.htm">Emplazamiento</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/visita.htm">Visita Virtual</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/transp.htm">Transportes</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/mapa.htm">Mapa de la Ciudad</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/resenya.htm">Rese&ntilde;a Hist&oacute;rica</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/arte.htm">Arte y Cultura</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/monum.htm">Monumentos</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/museos.htm">Museos</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/gastro.htm">Gastronom&iacute;a</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/aloja.htm">Alojamiento</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/turismo/agenda.htm">Agenda</a></td>
+        </tr>
+      </table> 
+      <br>
+      <br>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tablaMenuL">
+        
+        <th>servicios</th>
+        <tr> 
+          <td><a href="../elcarpio/servicios/telefonos.htm">Telefonos de Inter&eacute;s</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/buzon.htm">Buz&oacute;n del Ciudadano</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/guardiac.htm">Guardia Civil</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/bomberos.htm">Bomberos</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/farmacias.htm">Farmacias</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/csalud.htm">Centros de Salud</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/biblio.htm">Biblioteca</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/cineteatro.htm">Cines y Teatros</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/ideport.htm">Instalaciones Deportivas</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/servicios/asocia.htm">Asociaciones</a></td>
+        </tr>
+      </table> </td>
+    <td width="500" height="30" align="right" class="mancomunidad">Mancomunidad 
+      del Alto Guadalquivir</td>
+    <td width="10">&nbsp;</td>
+    <td width="125" height="30" bgcolor="#009966">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height="100" colspan="3"><img src="../elcarpio/images/banner.jpg" width="635" height="100"></td>
+  </tr>
+  <tr> 
+    <td width="500" align="left" valign="top" class="tdcontenido"><br>
+      <!-- TemplateBeginEditable name="contenido" -->contenido<!-- TemplateEndEditable --> 
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="125" valign="top" bgcolor="#009966"><br>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tablaMenu">
+          <th>mi ayuntamiento</th>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/ayunta.htm">Presentaci&oacute;n</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/organiza.htm">Organizaci&oacute;n</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/areasm.htm">&Aacute;reas Municipales</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/plenos.htm">Plenos y Comisiones</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/presup.htm">Presupuestos</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/ordenanzas.htm">Ordenanzas y Comisiones</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/patronatos.htm">Patronatos y Empresas 
+            Municipales</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/ayuntamiento/calendarioc.htm">Calendario del 
+            Contribuyente</a></td>
+        </tr>
+      </table>
+	  <br>
+	  <br>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tablaMenu">
+        <th>Tramites municipales</th>
+        <tr> 
+          <td><a href="../elcarpio/tramites/padron.htm">Padr&oacute;n de Habitantes 
+            y vivienda</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/trabajo.htm">Trabajo y Empresas</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/subvencion.htm">Ayudas y Subvenciones</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/consumo.htm">Sanidad y Consumo</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/servsocial.htm">Servicios Sociales, 
+            Tercerar Edad y Pensionistas</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/otrosserv.htm">Otros Servicios Municipales</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/impuestos.htm">Impuestos Municipales</a></td>
+        </tr>
+        <tr> 
+          <td><a href="../elcarpio/tramites/certificados.htm">Petici&oacute;n 
+            de Certificados</a></td>
+        </tr>
+      </table> </td>
+  </tr>
+  <tr> 
+    <td width="125" height="20">&nbsp;</td>
+    <td width="500" height="20" align="center" class="pie"><img src="../images/hr.gif" width="80%" height="1" border="0"><br>
+      Mancomunidad del Alto Guadalquivir</td>
+    <td width="10">&nbsp;</td>
+    <td width="125" height="20" bgcolor="#009966">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
